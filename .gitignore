@@ -20,3 +20,6 @@ coverage
 **/TestProjects/**/.htaccess
 **/TestProjects/**/dummy
 **/badge-button/**/TestProjects/**/badge.mpk
+packages-web/progress-bar/tests/TestProjects/Mendix8.3/
+packages-web/progress-bar/tests/TestProjects/Mendix_MX_8/
+packages-web/badge-button/tests/TestProjects/Mendix_MX_8/*
